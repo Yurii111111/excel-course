@@ -1,0 +1,23 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Webpack (imports/exports)\r \tBabel\r \tScss\r \tEslint\r \t2 Modes\r \t\t- Dev\r \t\t\tDev Server, SourceMaps, Eslint, Not Minified JS & CSS\r \t\t- Prod\r \t\t\tMinified Code\r Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurii111111/excel-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurii111111/excel-course/issues"
+  },
+  "homepage": "https://github.com/Yurii111111/excel-course#readme",
+  "devDependencies": {
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
